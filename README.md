@@ -2,7 +2,7 @@
 
 *Now, you are NOT going to get this first 11.67 times you do it. But, don't freak out It'll be OK.* **No, really it will be just fine.**
 
-*Like a parasitic alien in your GI track it will eat away at you quietly and will burst forth from your subconciousness, or some other bursting part, when you least suspect it. Happened to me many years ago during a waking nightmare I now refer to as a job interview.*
+*Like a parasitic alien in your GI track this will eat away at you quietly and will burst forth from your subconciousness, or some other bursting part, when you least suspect it. Happened to me many years ago during a waking nightmare I now refer to as a job interview.*
 
 **From here on, ignore all text in italics. I mean really, don't read them, at all. Like never. Please, I'll like you if you don't. OK.**
 
@@ -137,9 +137,7 @@
 	
     ```psql --database products_app_development```  
     
-    Show all tables.   
-    ```\dS``	
-	
+    
 * OK, now we have a products table in the db. We need a Rails model to access the data in this products table.
 
 	```
